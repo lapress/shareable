@@ -1,6 +1,6 @@
 {
   "name": "@lapress/shareable",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Social share directive",
   "main": "index.js",
   "files": ["src/*"],
