@@ -37,7 +37,7 @@ export default {
     },
     computed: {
         shareLink() {
-          return this.href + this.dataSuffix
+          return SOCIALS[this.type] + this.href + this.dataSuffix
         },
     },
     methods: {
