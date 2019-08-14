@@ -3,6 +3,7 @@
   "version": "0.0.2",
   "description": "Social share directive",
   "main": "index.js",
+  "files": ["src/*"],
   "repository": "git@github.com:lapress/shareable.git",
   "author": "Sebastian Szczepanski <sebastian@ably.pl>",
   "license": "MIT"
